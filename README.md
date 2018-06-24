@@ -5,17 +5,25 @@ It is a java banking account application that returns the status of each custome
 
 ## Information for each account
 Example :
+
 NAME Arielle Duncan
+
 ACCOUNT NUMBER: 13810001467
+
 BALANCE: 1000.0
+
 RATE: 0.625%
+
  Your Savings Account Features
+ 
  Safety Deposit Box ID: 18
+ 
  Safety Deposit Box Key: 4444
+ 
 
 ## Screenshots
 
-![zodiac_image1](https://github.com/nicolaschen1/ZodiacApp/blob/master/screenshots/customers.PNG)
+![bankaccountapp_image1](https://github.com/nicolaschen1/BankingAccountApp/blob/master/screenshots/customers.PNG)
 
 ## Author
 Nicolas Chen
